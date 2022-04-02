@@ -1,4 +1,8 @@
 ---
 layout: home
-image: assets/images/home-banner.jpg
+image: assets/images/nineland.jpg
 ---
+<style>
+.intro-title{
+    display: none;
+}
